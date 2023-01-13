@@ -10,4 +10,9 @@
   color: red;
   font-family: 'MyFont';
   background: url('./icon.png');
+  background-size: cover;
+}
+
+.hello img {
+  height: 50px;
 }
